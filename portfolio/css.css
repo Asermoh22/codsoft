@@ -1,0 +1,422 @@
+body{
+    background-color: rgb(13 5 13);
+    margin: 0;
+}
+
+.content{
+    width: 100%;
+    height: 600px;
+    background-color: #5f3923;
+}
+
+#v{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 80px;
+    top: 25px;
+}
+.myimg{
+    width: 450px;
+    height: 480px;
+    background-color: black;
+    position: relative;
+    left: 930px;
+    top: -200px;
+    border-radius: 20px;
+}
+
+#aser{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    left: 195px;
+    top: 10px;
+    position: relative;
+}
+
+#mo{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    left: 120px;
+    top: -15px;
+    position: relative;
+}
+#zz{
+    position: relative;
+    left: 145px;
+    bottom: 20px;
+}
+.topbar{
+    width: 100%;
+    height: 90px;
+    background-color:#5f3923;
+    /*background-color: #5f3923;*/
+
+}
+
+#gg{
+    position: relative;
+    left: 195px;
+    bottom: 38px;
+
+}
+#ff{
+    position: relative;
+    left: 245px;
+    bottom: 56px;
+}
+#lin{
+    position: relative;
+    left: 295px;
+    bottom: 74px;
+}
+a{
+    display: block;
+}
+#ab{
+    color: #e1e1e1;
+    position: relative;
+    left: 140px;
+    top: 80px;
+    font-size: 50px;
+    margin: 0;
+}
+#ser{
+    position: relative;
+    margin: 0;
+    left: 30px;
+    top: 35px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#bn{
+    position: relative;
+    top: 90px;
+    left: 145px;
+    font-weight: bolder;
+    font-size: 30px;
+    margin: 0;}
+
+    #x{
+        position: relative;
+    color: #e1e1e1;
+    left: 635px;
+    top: -390px;
+    font-size: 20px;
+    font-weight: bold;
+    }
+
+   
+    #abb{
+        width: 500px;
+        height: 400px;
+        position: relative;
+        left: 50px;
+    }
+    #abx{
+        color: #e1e1e1;
+    position: relative;
+    left: 630px;
+    top: -420px;
+    font-size: 50px;
+    margin: 0;
+    }
+
+    .skill{
+        margin-top: 45px;
+    }
+
+    #zx{
+        width: 650px;
+        height: 475px;
+        position: relative;
+        left: 839px;
+        top: 170px;
+    }
+    #tech{
+        color: #e1e1e1;
+        position: relative;
+        left: 45px;
+        top: -470px;
+        font-size: 50px;
+        margin: 0;
+    }
+    .ss{
+        display: inline-table;
+        width: 305px;
+        height: 235px;
+        color: bisque;
+        position: relative;
+        bottom: 380px;
+        border-radius: 15px;
+        left: 60px;
+        background-color: darkslategrey;
+        margin-right: 110px;
+    }
+    .zz{
+        display: inline-table;
+        width: 305px;
+        height: 235px;
+        color: bisque;
+        position: relative;
+        bottom: 380px;
+        border-radius: 15px;
+        left: 60px;
+        background-color: darkslategrey;
+        margin-right: 110px;
+    }
+    #pro{
+        position: relative;
+        left: 55px;
+        top: 15px;
+    }
+    #proo{
+        position: relative;
+        left: 80px;
+        top: 15px;
+    }
+    #prooo{
+        position: relative;
+        left: 120px;
+        top: 15px;
+    }
+    #proooo{
+        position: relative;
+        left: 130px;
+        top: 15px;
+    }
+    li{
+        position: relative;
+        top: 20px;
+        margin-bottom: 7px;
+    }
+    .tww{
+        position: relative;
+        top: 40px;
+    }
+
+    #prj{
+        color: #e1e1e1;
+        position: relative;
+        left: 45px;
+        top: -220px;
+        font-size: 50px;
+        margin: 0;
+    }
+    .aq{
+        position: relative;
+        width: 450px;
+        height: 320px;
+        background-image: linear-gradient(339deg,rgba(18, 18, 18, 1) 40%,darkslategrey 80%);
+        bottom: 150px;
+        left: 45px;
+    }
+    #E-learning{
+        width: 430px;
+        height: 200px;
+        position: relative;
+        top: 8px;
+        left: 9px;
+    }
+    #EP{
+        color: white;
+        position: relative;
+        left: 140px;
+        font-weight: bold;
+        top: 15px;
+        font-size: 18px;
+    }
+    #t{
+        position: relative;
+        left: 380px;
+        top: 10px;
+        color: bisque;
+    }
+    .aqq{
+        position: relative;
+        width: 450px;
+        height: 320px;
+        background-image: linear-gradient(339deg,rgba(18, 18, 18, 1)42%,rgba(137, 84, 186, 1) 96%);
+        left: 520px;
+        border-radius: 8px;
+        bottom: 470px;
+    }
+    .aqqq{
+        position: relative;
+        width: 450px;
+        height: 320px;
+        background-image: linear-gradient(339deg,rgba(18, 18, 18, 1)42%,rgba(194, 242, 0, 1) 96%);
+        left: 995px;
+        border-radius: 8px;
+        bottom: 790px;
+    }
+    .aqqqq{
+        position: relative;
+        width: 450px;
+        height: 320px;
+        background-image: linear-gradient(339deg,rgba(18, 18, 18, 1)23%,rgba(24, 31, 45, 1)60%);
+        left: 280px;
+        border-radius: 8px;
+        bottom: 690px;
+    }
+    .aqqqqq{
+        position: relative;
+        width: 450px;
+        height: 320px;
+        background-image: linear-gradient(339deg,rgba(18, 18, 18, 1)37%,rgba(46, 43, 70, 1) 60%);
+        left: 815px;
+        border-radius: 8px;
+        bottom: 1010px;
+    }
+    #EPP{
+        color: white;
+        position: relative;
+        left: 180px;
+        font-weight: bold;
+        top: 15px;
+        font-size: 18px;
+    }
+    #EPPP{
+        color: white;
+        position: relative;
+        left: 155px;
+        font-weight: bold;
+        top: 15px;
+        font-size: 18px;
+    }
+    #EPPPP{
+        color: white;
+        position: relative;
+        left: 190px;
+        font-weight: bold;
+        top: 15px;
+        font-size: 18px;
+    }
+    .foo{
+        background-color: black;
+        height: 200px;    }
+.projects{
+    margin: 0px;
+    height: 960px;}
+
+    #c1{
+        position: relative;
+        top: 90px;
+        left: 691px;
+    }
+    #c2{
+        position: relative;
+        top: 72px;
+        left: 750px;
+    }
+    #c3{
+        position: relative;
+        top: 54px;
+        left: 810px;
+    }
+
+    #c4{
+        position: relative;
+        top: 37px;
+        left: 870px;
+    }
+    #cont{
+        color: white;
+        margin: 0;
+        position: relative;
+        left: 715px;
+        top: 50px;
+        font-size: 23px;   
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     }
+  
+     button{
+        background-color: #5f3923;
+        width: 200px;
+        height: 62px;
+        color: white;
+        position: relative;
+        left: 641px;
+        bottom: 360px;
+        border-radius: 12px;
+        box-shadow: 3px 1px 3px -2px #e1e1e1;
+    }     
+     button:hover{
+        cursor: pointer;
+     }
+     #l{
+        position: relative;
+        margin: 0;
+        left: 750px;
+        top: 11px;
+        font-size: 18px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: bold;
+     }
+     #ll{
+        position: relative;
+    margin: 0;
+    left: 885px;
+    top: -10px;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+     }
+     #lll{
+        position: relative;
+        margin: 0;
+        left: 969px;
+        top: -30px;
+        font-size: 18px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: bold;
+     }
+     #llll{
+        position: relative;
+        margin: 0;
+        left: 1070px;
+        top: -50px;
+        font-size: 18px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: bold;
+     }
+     #l:hover{
+        color: #e1e1e1;
+     }
+     #ll:hover{
+        color: #e1e1e1;
+     } #lll:hover{
+        color: #e1e1e1;
+     } #llll:hover{
+        color: #e1e1e1;
+     } 
+     a{
+        color: black;
+        text-decoration: none;
+
+     }
+     #About{
+        margin-top:150px ;
+
+     }
+     .foo p{
+        color: white;
+        position: relative;
+        left: 605px;
+        top: 45px;     }
+     .designer{
+        opacity: 0.7;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-weight: 400;
+        margin: 0px 5px;
+    }
+    .links{
+        position: relative;
+        right: 180px;
+        top: 2px;    }
+
+
+    
